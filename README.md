@@ -1,6 +1,6 @@
 # ambuild-template
 
-CodeSpace environment
+#### CodeSpace environment
 
 1. Make sure you are in the workspace.    
 `$ cd $CODESPACE_VSCODE_FOLDER`
